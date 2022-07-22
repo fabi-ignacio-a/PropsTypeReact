@@ -1,2 +1,2 @@
-# PropsTypeReact
+# PrimerComponenteReact
 Created with CodeSandbox
